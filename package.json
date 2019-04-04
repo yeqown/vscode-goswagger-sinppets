@@ -3,7 +3,10 @@
 	"displayName": "goswagger-snippets",
 	"description": "sinppets for goswagger",
 	"publisher": "yeqown",
-	"repository": "git@github.com:yeqown/vscode-goswagger-sinppets.git",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yeqown/vscode-goswagger-sinppets"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.32.0"
