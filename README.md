@@ -3,6 +3,21 @@
 
 a vscode extension, mainly provide sinppets of goswagger spec api docs
 
+## Debug
+
+open `vscode` and open `goswagger-snippets` project, then check to `Debug` then click `run Extension`.
+
+## Package
+
+```sh
+cd path/to/goswagger-snippets && vsce package
+```
+
+## Publish
+
+then login https://marketplace.visualstudio.com, publish `vsix` file.
+
+
 ## Features
 
 goswagger spec api docs sinppets for now
