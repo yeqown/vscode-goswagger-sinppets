@@ -1,4 +1,7 @@
-# goswagger-snippets README
+
+# vscode-goswagger-sinppets
+
+a vscode extension, mainly provide sinppets of goswagger spec api docs
 
 ## Features
 
@@ -22,5 +25,3 @@ Calling out known issues can help limit users opening duplicate issues against y
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
