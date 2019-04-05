@@ -1,9 +1,14 @@
-# Change Log
+# 0.0.2 - 5th April, 2019
 
-All notable changes to the "goswagger-snippets" extension will be documented in this file.
+features:
+* new command to install `goswagger`
+* new command to generate `swagger.json`
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+docs:
+* maintain `CHANGELOG.md`
+* update extension infos
 
-## [Unreleased]
 
-- Initial release
+# 0.0.1 - 4th April, 2019
+
+prerelease version of `goswagger-sinppets`.

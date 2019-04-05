@@ -5,30 +5,30 @@
 	"publisher": "yeqown",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/yeqown/vscode-goswagger-sinppets"
+		"url": "https://github.com/yeqown/vscode-goswagger-sinppets.git"
 	},
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
 	"categories": [
-		"Other"
+		"Snippets"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:goswagger-sinppets.installGoswagger"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "goswagger-sinppets.installGoswagger",
+				"title": "GoSwagger-Snippets: install go-swagger bin files"
 			}
 		],
 		"snippets": [
 			{
 				"language": "go",
-				"path": "./snippets.json"
+				"path": "./snippets/snippets.json"
 			}
 		]
 	},
